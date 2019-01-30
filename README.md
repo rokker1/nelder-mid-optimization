@@ -15,6 +15,7 @@ g++ -std=c++11 -lm point.cpp nma.cpp main.cpp -o nma;
 2. Используя [JetBrains CLion](https://www.jetbrains.com/clion/) ([CMake](https://cmake.org/)) 
 
     a. Открыть проект из папки репозитория, используя СLion.
+    
     b. Собрать проект и запустить
 
 Для визуализации результатов
